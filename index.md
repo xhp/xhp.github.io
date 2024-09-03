@@ -14,13 +14,34 @@ layout: default
 1. YesPlayMusic https://github.com/qier222/YesPlayMusic
 2. zfile https://github.com/zfile-dev/zfile
 3. polybar https://github.com/polybar/polybar
-4. fonts https://github.com/githubnext/monaspace (https://github.com/githubnext/monaspace/tree/main/fonts/otf)
+4. fonts https://github.com/githubnext/monaspace [(otf)](https://github.com/githubnext/monaspace/tree/main/fonts/otf)
 5. medusa https://github.com/medusajs/medusa
 6. tauri https://github.com/tauri-apps/tauri
 7. Directus https://github.com/directus/directus
 8. budibase https://github.com/Budibase/budibase
 9. redwoodjs https://github.com/redwoodjs/redwood
 10. Appwrite https://github.com/appwrite/appwrite
+
+> 2024.09.02
+
+1. Rnote：释放创意，手绘与笔记的开源之选 https://github.com/flxzt/rnote
+2. Postgres 与 Airtable 的完美结合 https://github.com/teableio/teable
+3. Metahuman Stream：实时互动的数字人 https://github.com/lipku/metahuman-stream
+4. Midday：一站式智能商业助手 https://github.com/midday-ai/midday
+5. 在 Docker 中体验近乎原生的 macOS https://github.com/sickcodes/Docker-OSX
+6. Explorer++ https://github.com/derceg/explorerplusplus
+
+> 2024.09.03
+
+1. 1.Postiz - 您的终极 AI 社交媒体规划工具 https://github.com/gitroomhq/postiz-app
+2. Bluesky Social：开源社交应用 https://github.com/bluesky-social/social-app
+3. G-Helper：轻量级华硕笔记本和 ROG Ally 控制工具 https://github.com/seerge/g-helper
+4. 专注于提示与图像生成 https://github.com/lllyasviel/Fooocus
+5. Composio：面向 AI 代理的专业工具集 https://github.com/ComposioHQ/composio
+6. SDL 3.0 跨平台多媒体开发库 https://github.com/libsdl-org/SDL
+7. AppFlowy Cloud：开源的 Notion 替代品 https://github.com/AppFlowy-IO/AppFlowy-Cloud
+8. C3 编译器：C 语言的延伸 https://github.com/c3lang/c3c
+
 
 ### [](#header-3)OS
 > 2024.08.29
