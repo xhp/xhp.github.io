@@ -42,6 +42,20 @@ layout: default
 7. AppFlowy Cloud：开源的 Notion 替代品 https://github.com/AppFlowy-IO/AppFlowy-Cloud
 8. C3 编译器：C 语言的延伸 https://github.com/c3lang/c3c
 
+> 2024.09.04
+
+1. postcat https://github.com/postcatlab/postcat [主页](https://postcat.com/zh)
+2. the-book-of-secret-knowledge https://github.com/trimstray/the-book-of-secret-knowledge
+3. ServerStatus https://github.com/cppla/ServerStatus
+4. Win11Debloat https://github.com/Raphire/Win11Debloat
+5. 电子书阅读开源神器：Foliate https://github.com/johnfactotum/foliate
+6. Deskreen：将任何屏幕变成你的扩展显示器 https://github.com/pavlobu/deskreen
+7. quasar https://github.com/quasarframework/quasar [主页](https://quasar.dev/) [主页](http://www.quasarchs.com/)
+8. webvm https://github.com/leaningtech/webvm [主页](https://webvm.io/)
+9. leantime https://github.com/Leantime/leantime [主页](https://leantime.io/)
+
+
+
 
 ### [](#header-3)OS
 > 2024.08.29
