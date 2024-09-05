@@ -50,9 +50,24 @@ layout: default
 4. Win11Debloat https://github.com/Raphire/Win11Debloat
 5. 电子书阅读开源神器：Foliate https://github.com/johnfactotum/foliate
 6. Deskreen：将任何屏幕变成你的扩展显示器 https://github.com/pavlobu/deskreen
-7. quasar https://github.com/quasarframework/quasar [主页](https://quasar.dev/) [主页](http://www.quasarchs.com/)
+7. Quasar 框架 https://github.com/quasarframework/quasar [主页](https://quasar.dev/) [主页](http://www.quasarchs.com/)
 8. webvm https://github.com/leaningtech/webvm [主页](https://webvm.io/)
 9. leantime https://github.com/Leantime/leantime [主页](https://leantime.io/)
+
+> 2024.09.05
+
+1.  Python 库 - altair https://github.com/altair-viz/altair
+2. 清华大学开源文字到视频技术(CogVideo) https://github.com/THUDM/CogVideo
+3. 智能家居 AI 摄像头 https://github.com/blakeblackshear/frigate
+4. Awesome-GitHub-Repo https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
+5. Qwen-VL：一个多模态视觉语言模型 https://github.com/QwenLM/Qwen-VL
+6. VectorVein：AI驱动的无代码工作流平台 https://github.com/AndersonBY/vector-vein
+7. Vuestic UI：一款基于 Vue 3 的易用组件库 https://github.com/epicmaxco/vuestic-ui
+8. Rancher Dashboard：管理 Kubernetes 集群的强大界面 https://github.com/rancher/dashboard
+9. Node.js JavaScript 运行时 ✨🐢🚀✨ https://github.com/nodejs/node
+10. ToolJet：适用于业务应用程序的低代码平台 https://github.com/ToolJet/ToolJet
+11. lan#tern getlan#tern/lan#tern
+
 
 
 
