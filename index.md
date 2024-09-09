@@ -177,13 +177,27 @@ layout: default
 
 ### [](#header-3)org
 
-- [google]
-- [meta(facebook)]
-- [huawei]
-- [tencent]
-- [alibaba]
-- [baidu]
-- [douyin]
+- [Google]
+- [Meta(facebook)]
+- [Microsoft]
+
+
+- [腾讯]
+- [阿里巴巴]
+- [百度]
+
+- [华为]
+- [小米]
+- [OPPO]
+- [VIVO]
+- [荣耀]
+- [魅族]
+
+- [快手]
+- [抖音]
+- BAT(中国互联网公司三巨头)
+- 2019年8月14日(2019年中国互联网企业100强)10
+阿里巴巴、腾讯、百度、京东、蚂蚁金服、网易、美团、字节跳动、360、新浪
 
 
 
