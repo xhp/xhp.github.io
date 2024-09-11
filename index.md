@@ -2,6 +2,15 @@
 layout: default
 ---
 
+### [](#header-3)AI
+> 2024.09.11
+
+1. AiEditor https://aieditor.dev
+2. gitee https://ai.gitee.com/
+3. marscode https://www.marscode.cn/
+4. cursor https://www.cursor.com/
+5. tencent https://cloud.tencent.com/product/acc
+
 
 ### [](#header-3)github
 > 2024.08.29
@@ -92,10 +101,47 @@ layout: default
 16. NumExpr https://github.com/pydata/numexpr
 17. https://github.com/microsoft/vscode
 
+> 2024.09.11
+
+1. nginx https://github.com/nginx/nginx
+2. web-check https://github.com/lissy93/web-check
+3. https://github.com/modularml/mojo
+4. https://github.com/godotengine/godot
+5. https://github.com/oven-sh/bun
+6. https://github.com/getcursor/cursor
+7. https://github.com/xorbitsai/inference
+8. https://github.com/sanluan/PublicCMS
+9. https://github.com/yahoo/elide
+
+
 ### [](#header-3) gitee
 > 2024.09.09
 
 1. https://gitee.com/microsoft/vscode
+
+> 2024.09.11
+
+1. https://gitee.com/mirrors/WebCheck
+2. https://gitee.com/mirrors/Mojo-Lang
+3. https://gitee.com/mirrors/godot
+4. https://gitee.com/mirrors/bun
+5. https://gitee.com/mirrors/Cursor-Editor
+6. https://gitee.com/openkylin/kylin-code
+7. https://gitee.com/openkylin/kylin-asrassistant
+8. https://gitee.com/gouguopen/office
+9. https://gitee.com/orangeform/orange-admin
+10. https://gitee.com/sanluan/PublicCMS
+11. https://gitee.com/mirrors/Xinference
+12. https://gitee.com/innoshop/innoshop
+13. https://gitee.com/agents-flex/agents-flex
+14. https://gitee.com/jeecg/JimuReport
+15. https://gitee.com/opensolon/solon
+16. https://gitee.com/s11e-DAO/bsin-paas-os
+17. https://gitee.com/iohao/ioGame
+18. https://gitee.com/aizuda/flowlong
+19. https://gitee.com/wanghouhou/wgcloud
+20. https://gitee.com/doc_wei01/skyeye
+21. https://gitee.com/mirrors/Elide
 
 
 ## [](#header-3)Meta(Facebook)
@@ -125,6 +171,10 @@ layout: default
 
 ### react-native-webview
 1. https://github.com/react-native-webview/react-native-webview
+
+### react-native-website
+1. https://github.com/reactnativecn/react-native-website
+2. https://github.com/reactnativecn/react-native-website/issues
 
 
 ## [](#header-3)[google](./src/google/index)
@@ -159,6 +209,9 @@ layout: default
 - [kali](https://www.kali.org/)
 - [oschina](https://www.oschina.net/)
 - [csdn](https://www.csdn.net/)
+- [openkylin](https://www.openkylin.top/?source=oschina)
+- [orillusion](https://www.orillusion.com/)
+- [ukui](https://www.ukui.org/)
 
 
 - [clound tencent](https://cloud.tencent.com/)
