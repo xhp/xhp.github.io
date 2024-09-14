@@ -125,6 +125,38 @@ layout: default
 8. https://github.com/actiontech/sqle
 9. https://github.com/dromara/warm-flow.git
 
+> 2024.09.13
+
+1. https://github.com/torvalds/linux
+
+> 2024.09.14
+
+1. https://github.com/xmake-io/xmake
+2. https://github.com/protocolbuffers/protobuf/
+3. https://github.com/salvo-rs/salvo
+4. https://github.com/kovidgoyal/calibre
+5. https://github.com/zulip/zulip
+6. https://github.com/alipay/agentUniverse
+7. https://github.com/cxasm/notepad--
+8. https://github.com/gojue/ecapture
+9. https://github.com/xverse-ai/XVERSE-MoE-A36B
+10. https://github.com/o2sh/onefetch
+11. https://github.com/servo/servo
+12. https://github.com/1Panel-dev/MaxKB
+13. https://github.com/crowdsecurity/crowdsec
+14. https://github.com/sagframe/sagacity-sqltoy
+15. https://github.com/apache/cassandra
+16. https://github.com/1panel-dev/1panel
+17. https://github.com/jumpserver/jumpserver
+18. https://github.com/halo-dev/halo
+19. https://github.com/metersphere/metersphere
+20. https://github.com/1Panel-dev/KubePi
+21. https://github.com/TongchengOpenSource/smart-doc
+22. https://github.com/huangxing2010/ry-vue-flowable-xg
+23. https://github.com/01-ai/Yi
+24. https://github.com/riscv/riscv-config
+25. https://github.com/yangjian102621/geekai
+
 
 ### [](#header-3) gitee
 > 2024.09.09
@@ -179,6 +211,33 @@ layout: default
 19. https://gitee.com/dgiiot/dgiot
 20. https://gitee.com/wwccss/zentaopms
 21. https://gitee.com/dromara/warm-flow
+
+> 2024.09.14
+
+1. https://gitee.com/tboox/xmake
+2. https://gitee.com/mirrors/Salvo
+3. https://gitee.com/mirrors/Calibre
+4. https://gitee.com/mirrors/zulip
+5. https://gitee.com/agentUniverse/agentUniverse
+6. https://gitee.com/cxasm/notepad--
+7. https://gitee.com/mirrors/Servo-Mozilla
+8. https://gitee.com/xiaoming1q/icodes
+9. https://gitee.com/junyue/flyflow
+10. https://gitee.com/sagacity/sagacity-sqltoy
+11. https://gitee.com/mirrors/Cassandra-Apache
+12. https://gitee.com/fit2cloud-feizhiyun/DataEase
+13. https://gitee.com/momoljw/sss-rbac-admin
+14. https://gitee.com/xnqysabout/ry-vue-flowable-xg
+15. https://gitee.com/dromara/RuoYi-Vue-Plus
+16. https://gitee.com/mirrors/Yi-LLM
+17. https://gitee.com/mirrors/risc-v
+18. https://gitee.com/dromara/lamp-cloud
+19. https://gitee.com/dromara/easyAi
+20. https://gitee.com/blackfox/geekai
+21. https://gitee.com/oschina/awesome-llm
+22. https://gitee.com/mindspore/mindspore
+23. https://gitee.com/paddlepaddle/Paddle
+24. https://gitee.com/liuruoze/EasyPR
 
 
 ## [](#header-3)Meta(Facebook)
@@ -249,6 +308,8 @@ layout: default
 - [openkylin](https://www.openkylin.top/?source=oschina)
 - [orillusion](https://www.orillusion.com/)
 - [ukui](https://www.ukui.org/)
+- [linux](https://kernel.org/)
+- [virtualbox](https://www.virtualbox.org/)
 
 
 - [clound tencent](https://cloud.tencent.com/)
