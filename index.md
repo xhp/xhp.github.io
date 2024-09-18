@@ -157,6 +157,39 @@ layout: default
 24. https://github.com/riscv/riscv-config
 25. https://github.com/yangjian102621/geekai
 
+> 2024.09.18
+
+1. https://github.com/LunarVim/LunarVim.git
+2. https://github.com/vispy/vispy
+3. https://github.com/vim-airline/vim-airline
+4. https://github.com/ToTheBeginning/PuLID
+5. https://github.com/krayin/laravel-crm
+6. https://github.com/phil-opp/blog_os
+7. https://github.com/practical-tutorials/project-based-learning
+8. https://github.com/home-assistant/core
+9. https://github.com/ai-to-ai/Auto-Gmail-Creator
+10. https://github.com/CadQuery/cadquery
+11. https://github.com/swisskyrepo/PayloadsAllTheThings
+12. https://github.com/fluidd-core/fluidd
+13. https://github.com/imsyy/SPlayer
+14. https://github.com/anthropics/courses
+15. https://github.com/versotile-org/verso
+16. https://github.com/deepfakes/faceswap
+17. https://github.com/frdel/agent-zero
+18. https://github.com/kailong321200875/vue-element-plus-admin
+19. https://github.com/opensearch-project/OpenSearch
+20. https://github.com/mongodb/mongo
+21. https://github.com/semgrep/semgrep
+22. https://github.com/golang/go
+23. https://github.com/apple/swift
+24. https://github.com/crate/crate
+25. https://github.com/igniterealtime/Openfire
+26. https://github.com/xl-xueling/xl-lighthouse.git
+27. https://github.com/otavia-projects/otavia
+28. https://github.com/mltframework/shotcut
+
+
+
 
 ### [](#header-3) gitee
 > 2024.09.09
@@ -239,6 +272,26 @@ layout: default
 23. https://gitee.com/paddlepaddle/Paddle
 24. https://gitee.com/liuruoze/EasyPR
 
+> 2024.09.18
+
+1. https://gitee.com/doc_wei01/skyeye erp
+2. https://gitee.com/dromara/skyeye OA
+3. https://gitee.com/doc_wei01/skyeye-report 报表
+4. https://gitee.com/mirrors/OpenSearch-Project
+5. https://gitee.com/mirrors/MongoDB
+6. https://gitee.com/mirrors/go
+7. https://gitee.com/mirrors/swift-lang
+8. https://gitee.com/mirrors/cratedata
+9. https://gitee.com/dromara/ujcms
+10. https://gitee.com/TongchengOpenSource/smart-doc
+11. https://gitee.com/mirrors/Openfire
+12. https://gitee.com/xl-xueling/xl-lighthouse.git
+13. https://gitee.com/smallweigit/avue
+14. https://gitee.com/mirrors/otavia
+15. https://gitee.com/mirrors/shotcut
+16. https://gitee.com/mybatis-mp/mybatis-mp
+17. https://gitee.com/Loongdom/DBErp
+
 
 ## [](#header-3)Meta(Facebook)
 > 2024.09.09
@@ -299,17 +352,55 @@ layout: default
 2. TensorFlow Lite https://tensorflow.google.cn/lite?hl=zh-cn
 3. examples https://github.com/tensorflow/examples
 
+### [](#header-3) Linux
+
+- [linux](https://kernel.org/)
+    - [debian](https://www.debian.org/)
+        - [ubuntu](https://ubuntu.com/)
+            - [mint](https://www.linuxmint.com/)
+            - [lubuntu](https://lubuntu.me/)
+            - [xubuntu](https://xubuntu.org/)
+            - [kubuntu](https://kubuntu.org/)
+            - [zorin os](https://zorin.com/os/)
+            - [linux lite](https://www.linuxliteos.com/)
+            - [elementary OS](https://elementary.io/)
+        - [mx linux](https://mxlinux.org/)
+        - [kali](https://www.kali.org/)
+        - [deepin](https://www.deepin.org/index/zh)
+    - [RedHat](https://www.redhat.com/zh)
+        - [fedora](https://fedoraproject.org/)
+        - RHEL
+            - [centos](https://www.centos.org)
+    - [SlackWare](http://www.slackware.com/)
+        - [opensuse](https://www.opensuse.org/)
+    - [gentoo](https://www.gentoo.org/)
+    - 其他
+        - [arch linux](https://archlinux.org/) 
+- https://pop.system76.com/
+
+- [深度Deepin](https://www.deepin.org)
+- [红旗Linux](https://www.chinaredflag.cn/)
+- [一铭桌面操作系统](https://www.emindsoft.com.cn)
+- [中标麒麟NeoKylin](http://www.cs2c.com.cn)
+- [中兴新支点](http://www.gd-linux.com/desktop)
+- [银河麒麟](https://www.kylinos.cn/)
+- [优麒麟UbuntuKylin](https://www.kylinos.cn)
+
+- [统信UOS](https://www.chinauos.com/)
+- [方德桌面操作系统](https://www.nfschina.com/index.php)
+- [起点操作系统StartOS](https://www.startos.com/)
+- [欧拉OpenEuler](https://www.openeuler.org/zh/)
+- [openkylin](https://www.openkylin.top)
+
 
 
 ### [](#header-3) blog
-- [kali](https://www.kali.org/)
+- [ukui](https://www.ukui.org/)
 - [oschina](https://www.oschina.net/)
 - [csdn](https://www.csdn.net/)
-- [openkylin](https://www.openkylin.top/?source=oschina)
 - [orillusion](https://www.orillusion.com/)
-- [ukui](https://www.ukui.org/)
-- [linux](https://kernel.org/)
 - [virtualbox](https://www.virtualbox.org/)
+- [openwrt](https://openwrt.org/)
 
 
 - [clound tencent](https://cloud.tencent.com/)
@@ -325,6 +416,9 @@ layout: default
 - [atomgit](https://atomgit.com/)
 - [coding](https://coding.net/)
 - [codefever](https://codefever.pgyer.com/)
+
+- [ipengtao](http://ipengtao.com/)
+- [WGCAT](http://www.wgstart.com)
 
 ### [](#header-3)org
 
