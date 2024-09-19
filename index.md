@@ -188,6 +188,16 @@ layout: default
 27. https://github.com/otavia-projects/otavia
 28. https://github.com/mltframework/shotcut
 
+>2024.09.19
+
+1. https://github.com/Zeyi-Lin/HivisionIDPhotos
+2. https://github.com/a597873885/webfunny_monitor
+3. https://github.com/opendatalab/MinerU
+4. https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer
+5. https://github.com/meltylabs/melty
+6. https://github.com/git-for-windows/git
+7. https://github.com/JetBrains/intellij-community
+8. https://github.com/mlogclub/bbs-go
 
 
 
@@ -291,6 +301,12 @@ layout: default
 15. https://gitee.com/mirrors/shotcut
 16. https://gitee.com/mybatis-mp/mybatis-mp
 17. https://gitee.com/Loongdom/DBErp
+
+> 2024.09.19
+
+1. https://gitee.com/mirrors/Git-for-Windows
+2. https://gitee.com/mirrors/IntelliJ-IDEA
+3. https://gitee.com/mlogclub/bbs-go
 
 
 ## [](#header-3)Meta(Facebook)
