@@ -199,6 +199,28 @@ layout: default
 7. https://github.com/JetBrains/intellij-community
 8. https://github.com/mlogclub/bbs-go
 
+> 2024.09.20
+
+1. https://github.com/docker/docker/
+2. https://github.com/apache/doris/
+3. https://github.com/QwenLM/Qwen2
+4. https://github.com/apache/superset
+5. https://github.com/apache/echarts
+6. https://github.com/apache/dubbo
+7. https://github.com/google/material-design-icons
+8. https://github.com/Tencent/weui
+9. https://github.com/viarotel-org/escrcpy
+10. https://github.com/python-visualization/folium
+11. https://github.com/wanglin2/mind-map
+12. https://github.com/jgraph/drawio-desktop
+13. https://github.com/Mintplex-Labs/anything-llm
+14. https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
+15. https://github.com/rclone/rclone
+16. https://github.com/codecrafters-io/build-your-own-x
+17. https://github.com/cooderl/wewe-rss
+18. https://github.com/ultralytics/ultralytics
+19. https://github.com/dani-garcia/vaultwarden
+20. https://github.com/bklieger-groq/g1
 
 
 ### [](#header-3) gitee
@@ -307,6 +329,16 @@ layout: default
 1. https://gitee.com/mirrors/Git-for-Windows
 2. https://gitee.com/mirrors/IntelliJ-IDEA
 3. https://gitee.com/mlogclub/bbs-go
+
+> 2024.09.20
+
+1. https://gitee.com/mirrors/docker
+2. https://gitee.com/wanghongenpin/network-proxy-flutter
+3. https://gitee.com/baidu/apache-doris
+4. https://gitee.com/baidu/amis
+5. https://gitee.com/snail/proxy
+6. https://gitee.com/mirrors/qwen2
+7. https://gitee.com/viarotel-org/escrcpy
 
 
 ## [](#header-3)Meta(Facebook)
@@ -417,6 +449,7 @@ layout: default
 - [orillusion](https://www.orillusion.com/)
 - [virtualbox](https://www.virtualbox.org/)
 - [openwrt](https://openwrt.org/)
+- [rclone](https://rclone.org/)
 
 
 - [clound tencent](https://cloud.tencent.com/)
