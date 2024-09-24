@@ -222,6 +222,30 @@ layout: default
 19. https://github.com/dani-garcia/vaultwarden
 20. https://github.com/bklieger-groq/g1
 
+> 2024.09.23
+
+1. https://github.com/onivim/oni2
+2. https://github.com/microsoft/vscode
+3. https://github.com/Yelp/mrjob
+4. https://github.com/hijkzzz/Awesome-LLM-Strawberry
+5. https://github.com/malinkang/weread2notion-pro
+6. https://github.com/caorushizi/mediago
+7. https://github.com/Meituan-Dianping/walle
+8. https://github.com/taoweiji/MixPush
+9. https://github.com/LeslieLeung/opensource-lighthouse
+10. https://github.com/niezhiyang/open_source_team
+11. http://www.gitpp.com/goudan/tdesign
+
+> 2024.09.24
+
+1. https://github.com/dromara/hutool
+2. https://github.com/rspeer/wordfreq
+3. https://github.com/mtdvio/every-programmer-should-know
+4. https://github.com/Zeyi-Lin/HivisionIDPhotos
+5. https://github.com/Cinnamon/kotaemon
+6. https://github.com/ComposioHQ/composio
+
+
 
 ### [](#header-3) gitee
 > 2024.09.09
@@ -340,6 +364,14 @@ layout: default
 6. https://gitee.com/mirrors/qwen2
 7. https://gitee.com/viarotel-org/escrcpy
 
+> 2024.09.23
+
+1. https://gitee.com/mirrors/onivim-2
+
+> 2024.09.24
+
+1. https://gitee.com/dromara/hutool
+
 
 ## [](#header-3)Meta(Facebook)
 > 2024.09.09
@@ -450,7 +482,11 @@ layout: default
 - [virtualbox](https://www.virtualbox.org/)
 - [openwrt](https://openwrt.org/)
 - [rclone](https://rclone.org/)
-
+- [visualstudio code](https://code.visualstudio.com/)
+- [sublimetext](https://www.sublimetext.com/)
+- [neovim](https://neovim.io/)
+- [tdesign](https://tdesign.tencent.com/)
+- [hutool](https://www.hutool.cn/)
 
 - [clound tencent](https://cloud.tencent.com/)
 - [google cn](https://developers.google.cn/)
