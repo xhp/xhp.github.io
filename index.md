@@ -245,6 +245,25 @@ layout: default
 5. https://github.com/Cinnamon/kotaemon
 6. https://github.com/ComposioHQ/composio
 
+> 2024.09.25
+
+1. https://github.com/gorakhargosh/watchdog
+2. https://github.com/tw93/Pake
+3. https://github.com/markmap/markmap
+4. https://github.com/GitHubDaily/GitHubDaily
+5. https://github.com/mljar/mercury
+6. https://github.com/easysoft/zui
+7. https://github.com/glideapps/quicktype
+8. https://github.com/sz3/libcimbar
+9. https://github.com/sz3/cfc
+10. https://github.com/LordLiang/DrawingSpinUp
+11. https://github.com/THUDM/LongWriter
+12. https://github.com/iterate-ch/cyberduck
+
+6. http://www.gitpp.com/museai/docker-documentserver
+
+
+
 
 
 ### [](#header-3) gitee
@@ -487,6 +506,10 @@ layout: default
 - [neovim](https://neovim.io/)
 - [tdesign](https://tdesign.tencent.com/)
 - [hutool](https://www.hutool.cn/)
+- [libreoffice](https://www.libreoffice.org/)
+- [openzui](https://www.openzui.com/)
+- [quicktype](https://app.quicktype.io/)
+- [CyberDuck](https://cyberduck.io/)
 
 - [clound tencent](https://cloud.tencent.com/)
 - [google cn](https://developers.google.cn/)
