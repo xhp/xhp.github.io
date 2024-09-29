@@ -259,12 +259,33 @@ layout: default
 10. https://github.com/LordLiang/DrawingSpinUp
 11. https://github.com/THUDM/LongWriter
 12. https://github.com/iterate-ch/cyberduck
+13. http://www.gitpp.com/museai/docker-documentserver
 
-6. http://www.gitpp.com/museai/docker-documentserver
+> 2024.09.26
+
+1. https://github.com/xuxueli/xxl-job
+2. https://github.com/reqable/reqable-app
+
+> 2024.09.27
+
+1. https://github.com/Ucas-HaoranWei/GOT-OCR2.0
+
+> 2024.09.29
+
+1. https://github.com/WinampDesktop/winamp
+2. https://github.com/unclecode/crawl4ai
+3. https://github.com/Pythagora-io/gpt-pilot
+3. https://github.com/bitcoin/bitcoin
+4. https://github.com/bitcoinbook/bitcoinbook
+5. https://github.com/MrXujiang/h5-Dooring
+6. https://gitee.com/aieditor-team/aieditor
 
 
 
 
+### [](#header-3) arxiv
+
+- [GOT-OCR 2.0](https://arxiv.org/pdf/2409.01704)
 
 ### [](#header-3) gitee
 > 2024.09.09
@@ -391,6 +412,10 @@ layout: default
 
 1. https://gitee.com/dromara/hutool
 
+> 2024.09.26
+
+1. https://gitee.com/xuxueli0323/xxl-job
+
 
 ## [](#header-3)Meta(Facebook)
 > 2024.09.09
@@ -424,6 +449,8 @@ layout: default
 1. https://github.com/reactnativecn/react-native-website
 2. https://github.com/reactnativecn/react-native-website/issues
 
+### react-native-swiper
+1. https://github.com/leecade/react-native-swiper
 
 ## [](#header-3)[google](./src/google/index)
 > 2004.09.09
@@ -510,6 +537,8 @@ layout: default
 - [openzui](https://www.openzui.com/)
 - [quicktype](https://app.quicktype.io/)
 - [CyberDuck](https://cyberduck.io/)
+- [reqable](https://reqable.com/zh-CN/)
+- [Python Tutor](https://pythontutor.com)
 
 - [clound tencent](https://cloud.tencent.com/)
 - [google cn](https://developers.google.cn/)
