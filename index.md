@@ -280,12 +280,32 @@ layout: default
 5. https://github.com/MrXujiang/h5-Dooring
 6. https://gitee.com/aieditor-team/aieditor
 
+> 2024.10.08
 
+1. https://github.com/python-visualization/folium
+2. https://github.com/seriousm4x/UpSnap
+3. https://github.com/vnpy/vnpy
+4. https://github.com/kivy/kivy
+5. https://github.com/PKU-YuanGroup/ChatLaw
+6. https://github.com/0xJacky/nginx-ui
+7. https://github.com/leiurayer/downkyi
+8. https://github.com/imsyy/home
+9. 
+10. https://github.com/LiZhengXiao99/Navigation-Learning
+11. https://github.com/zabbix/zabbix
+12. https://github.com/wechatsync/Wechatsync
+13. https://github.com/wechatsync/article-syncjs
+14. https://github.com/AppFlowy-IO/AppFlowy
+15. https://github.com/mark-lord/mlx-sdturbo-webui
+
+
+20. NotebookLM
 
 
 ### [](#header-3) arxiv
 
 - [GOT-OCR 2.0](https://arxiv.org/pdf/2409.01704)
+- [MixAttention](https://arxiv.org/abs/2409.15012)
 
 ### [](#header-3) gitee
 > 2024.09.09
@@ -539,6 +559,9 @@ layout: default
 - [CyberDuck](https://cyberduck.io/)
 - [reqable](https://reqable.com/zh-CN/)
 - [Python Tutor](https://pythontutor.com)
+- [appflowy](https://www.appflowy.io/)
+
+
 
 - [clound tencent](https://cloud.tencent.com/)
 - [google cn](https://developers.google.cn/)
