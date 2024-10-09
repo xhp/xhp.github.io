@@ -234,7 +234,6 @@ layout: default
 8. https://github.com/taoweiji/MixPush
 9. https://github.com/LeslieLeung/opensource-lighthouse
 10. https://github.com/niezhiyang/open_source_team
-11. http://www.gitpp.com/goudan/tdesign
 
 > 2024.09.24
 
@@ -259,7 +258,6 @@ layout: default
 10. https://github.com/LordLiang/DrawingSpinUp
 11. https://github.com/THUDM/LongWriter
 12. https://github.com/iterate-ch/cyberduck
-13. http://www.gitpp.com/museai/docker-documentserver
 
 > 2024.09.26
 
@@ -290,16 +288,32 @@ layout: default
 6. https://github.com/0xJacky/nginx-ui
 7. https://github.com/leiurayer/downkyi
 8. https://github.com/imsyy/home
-9. 
+9. https://github.com/mark-lord/mlx-sdturbo-webui
 10. https://github.com/LiZhengXiao99/Navigation-Learning
 11. https://github.com/zabbix/zabbix
 12. https://github.com/wechatsync/Wechatsync
 13. https://github.com/wechatsync/article-syncjs
 14. https://github.com/AppFlowy-IO/AppFlowy
-15. https://github.com/mark-lord/mlx-sdturbo-webui
+15. NotebookLM
+
+> 2024.10.09
+
+1. https://github.com/jqlang/jq
+2. https://github.com/DataTalksClub/data-engineering-zoomcamp
+3. https://github.com/sourcebot-dev/sourcebot
+4. https://github.com/RT-Thread/rt-thread
+5. https://github.com/ClaudeBot/ClaudeBot
+6. github.com/pocketbase/pocketbase
+
+16.
 
 
-20. NotebookLM
+### [](#header-3) gitpp
+
+- http://www.gitpp.com/Ferret/pocketbase
+- http://www.gitpp.com/museai/docker-documentserver.
+- http://www.gitpp.com/goudan/tdesign
+
 
 
 ### [](#header-3) arxiv
@@ -560,6 +574,7 @@ layout: default
 - [reqable](https://reqable.com/zh-CN/)
 - [Python Tutor](https://pythontutor.com)
 - [appflowy](https://www.appflowy.io/)
+- [pocketbase](https://pocketbase.io/)
 
 
 
