@@ -303,7 +303,10 @@ layout: default
 3. https://github.com/sourcebot-dev/sourcebot
 4. https://github.com/RT-Thread/rt-thread
 5. https://github.com/ClaudeBot/ClaudeBot
-6. github.com/pocketbase/pocketbase
+6. https://github.com/pocketbase/pocketbase
+7. https://github.com/giuspen/cherrytree
+8. https://github.com/stackblitz/bolt.new
+9. https://github.com/rafaelmardojai/blanket ​​​
 
 16.
 
@@ -450,6 +453,10 @@ layout: default
 
 1. https://gitee.com/xuxueli0323/xxl-job
 
+> 2024.10.09
+
+1. https://gitee.com/mirrors/cherrytree
+2. https://gitee.com/lab1024/smart-admin
 
 ## [](#header-3)Meta(Facebook)
 > 2024.09.09
